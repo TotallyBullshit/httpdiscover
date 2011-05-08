@@ -53,6 +53,8 @@ login
 login.html
 login.php
 
+module
+modules
 mrtg
 munin
 
@@ -62,6 +64,8 @@ nagios3
 photo
 photos
 php
+phpbb
+phpbb3
 
 readme.html
 readme.txt
@@ -94,6 +98,9 @@ tmp
 video
 videos
 
+wbb
+wbb2
+wbb3
 webalizer
 webmail
 wordpress
