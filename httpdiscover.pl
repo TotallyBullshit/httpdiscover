@@ -28,6 +28,8 @@ use HTTP::Request::Common qw(GET POST HEAD);
 $| = 1;
 
 my $USERAGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20';
+$USERAGENT = 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)';
+
 my $ua = LWP::UserAgent->new('max_redirect' => 0);
 my $req;
 my $res;
