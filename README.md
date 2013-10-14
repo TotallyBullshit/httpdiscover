@@ -1,7 +1,5 @@
 # HTTPDiscover
-Find non-linked directories and files on a domain.
-
-Visit [fox21.at](http://fox21.at).
+Find non-linked directories and files on a [domain](http://en.wikipedia.org/wiki/Domain_name).
 
 ## Requirements
 - Perl
